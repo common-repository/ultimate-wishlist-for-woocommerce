@@ -1,0 +1,1149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Wishlist for WooCommerce 1.0.4\n"
+"POT-Creation-Date: 2021-11-16 12:58+0530\n"
+"PO-Revision-Date: 2021-11-16 12:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;"
+"translate_nooped_plural\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:106
+msgid "No data available in table"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:107
+msgid "Next"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:108
+msgid "Previous"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:109
+msgid "Last"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:110
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:111
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:112
+msgid "First"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:113
+msgid "No matching records found"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:114
+msgid "Search:"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:115
+msgid "Processing..."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:116
+msgid "Loading..."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:117
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:118
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:119
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:120
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:137
+msgid "MakeWebBetter"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:171
+#: ultimate-wishlist-for-woocommerce.php:130
+#: ultimate-wishlist-for-woocommerce.php:136
+#: ultimate-wishlist-for-woocommerce.php:261
+msgid "Ultimate Wishlist for WooCommerce"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:317
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:322
+msgid "Enable /Disable Plugin"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:328
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:340
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:472
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:493
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:514
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:535
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:573
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:585
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:597
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:609
+msgid "YES"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:329
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:341
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:473
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:494
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:515
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:536
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:574
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:586
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:598
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:610
+msgid "NO"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:331
+msgid "Enable/Disable the complete plugin functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:334
+msgid "Enable Wishlist Popup"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:343
+msgid "Show Item added in wishlist as popup after adding in list."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:346
+msgid "Wishlist Position And Preview"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:351
+msgid "Wishlist View Type"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:353
+msgid "Select how you want to show the wishlist for customers."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:358
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:378
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:397
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:413
+msgid "No options Selected"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:359
+msgid "Icon over Product Image"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:360
+msgid "Add to Wishlist button"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:364
+msgid "Wishlist button color"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:366
+msgid ""
+"Select the custom color for the wishlist button( Note: This setting will "
+"change the colours of all the buttons in the popup as well)."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:371
+msgid "Wishlist Interface Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:373
+msgid "Select which icon you want for the wishlist interface."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:379
+msgid "Heart Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:380
+msgid "Shopping Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:381
+msgid "Cart Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:382
+msgid "Star Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:383
+msgid "Tag Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:384
+msgid "Like Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:385
+msgid "Bell Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:386
+msgid "Eye Icon"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:390
+msgid "Wishlist on Product Page"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:392
+msgid ""
+"Select where wishlist button should be shown on woocommerce products page."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:398
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:416
+msgid "Before Add To Cart Button"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:399
+msgid "After Add To Cart Button"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:400
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:414
+msgid "Before Product Title"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:401
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:415
+msgid "After Product Title"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:402
+msgid "After Product Price"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:406
+msgid "Wishlist on Loops"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:408
+msgid ""
+"Select where wishlist button should be shown on woocommerce loops or shops."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:417
+msgid "Before Product Section"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:421
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:426
+msgid "Wishlist Page"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:428
+msgid ""
+"Select the page where view wishlist button should redirect. Wishlist page "
+"requires shortcode as [mwb_wfw_wishlist]"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:437
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:552
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:453
+msgid "Icon size"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:455
+msgid "Input Pinterest icon size."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:460
+msgid "Small"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:461
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:559
+msgid "Medium"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:462
+msgid "Large"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:466
+msgid "Facebook share"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:475
+msgid "Enable/Disable the Facebook share functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:478
+msgid "Facebook Icon color"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:480
+msgid "Input Facebook icon color."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:484
+msgid "Input Facebook icon color"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:487
+msgid "WhatsApp share"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:496
+msgid "Enable/Disable the WhatsApp share functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:499
+msgid "WhatsApp Icon color"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:501
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:505
+msgid "Input WhatsApp icon color."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:508
+msgid "Twitter share"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:517
+msgid "Enable/Disable the Twitter share functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:520
+msgid "Twitter Icon color"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:522
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:526
+msgid "Input Twitter icon color."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:529
+msgid "Pinterest share"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:538
+msgid "Enable/Disable the Pinterest share functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:541
+msgid "Pinterest Icon color"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:543
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:547
+msgid "Input Pinterest icon color."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:567
+msgid "Multiple Wishlist"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:576
+msgid "Enable/Disable the multiple wishlist functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:579
+msgid "Create API routing"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:588
+msgid "Enable/Disable the API routing functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:591
+msgid "Automated Emails"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:600
+msgid "Enable/Disable the automated emails functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:603
+msgid "In-stock Notification"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:612
+msgid "Enable/Disable the in-stock notification functionality."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:659
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:700
+msgid "Id of some field is missing"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:662
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:703
+msgid "Settings saved !"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-admin-dashboard.php:32
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-admin-dashboard.php:38
+msgid "Activate"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-admin-dashboard.php:38
+#, php-format
+msgid ""
+" the license key before %s or you may risk losing data and the plugin will "
+"also become disfunctional."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-admin-dashboard.php:57
+msgid " Your trial period is over please activate license to use the features."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-admin-dashboard.php:77
+msgid "ULTIMATE WISHLIST FOR WOOCOMMERCE"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-admin-dashboard.php:78
+#: ultimate-wishlist-for-woocommerce.php:215
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-admin-dashboard.php:80
+#: ultimate-wishlist-for-woocommerce.php:216
+msgid "Support"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:21
+msgid "What is a \"Ultimate Wishlist for WooCommerce\"?"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:25
+msgid ""
+"\"Ultimate Wishlist for WooCommerce\" is a powerful plugin that boosts "
+"customer engagement by providing the Wishlist\n"
+"\t\t\t\t\t feature on your WooCommerce store. With this plugin, your logged-"
+"in buyers can save products that they are interested in purchasing\n"
+"\t\t\t\t\t  but still are not ready to add it in the Cart. Customers can "
+"also invite family and friends, and give them access to add or view the "
+"wishlist,\n"
+"\t\t\t\t\t   or purchase the wishlist, making the gifting more convincing.\n"
+"\t\t\t\t\t Overall, this plugin encourages and helps your buyers to wish for "
+"their desired products more and better. "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:34
+msgid "How Does This Plugin help?"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:36
+msgid "Improve user's experience by letting them save products as wishlists."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:37
+msgid "Help customers to save their products research for future reference."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:38
+msgid "Give reason to the customers to return to your eStore."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:39
+msgid ""
+"Easily find out the interest of the individual buyers based on their "
+"wishlist products."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:40
+msgid ""
+"Discover the most converting product by tracking the most wished products."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:41
+msgid "Enhance your retargeting marketing with better customer's data."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:42
+msgid ""
+"Sharing Wishlist feature helps to indirectly promote your store on "
+"customer's social media handle."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:43
+msgid "Customize the color and size of share buttons."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:46
+msgid "The Free Plugin Benefits"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:51
+msgid "admin/image/Icons_Buyers.jpg"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:54
+msgid " Buyers Can Create Wishlist "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:57
+msgid ""
+"Create one wishlist and add as many products that buyers wish for. Edit, "
+"remove, share and purchase the products added to the wishlist."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:66
+msgid "admin/image/Icons_Shareable.jpg"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:69
+msgid " Shareable Wishlist "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:72
+msgid ""
+"The created wishlist can be shared on social media such as Facebook, "
+"Twitter, Whatsapp, etc. Further, buyers can add their family and friends to "
+"their wishlist."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:81
+msgid "admin/image/Icons_Set.jpg"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:84
+msgid " Set Wishlist Popup "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:87
+msgid ""
+"Set popup notification, that appears as a confirmation, when a product is "
+"added to the wishlist."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:96
+msgid "admin/image/Icons_Customize.jpg"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:99
+msgid " Customize Wishlist Button/Icon "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:102
+msgid ""
+"Set the icon or button of how the \"wishlist\" feature is shown on the "
+"product listing or product page. Can be cart, heart, eye, tag, etc."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:111
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:126
+msgid "admin/image/Icons_Purchase.jpg"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:114
+msgid " Purchase Directly from Wishlist "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:117
+msgid ""
+"The products added to the wishlist have an \"Add to Cart\" button, that the "
+"users can use, and directly purchase the product from the wishlist."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:129
+msgid " More Useful Features with Pro Plugin "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:132
+msgid ""
+"Allow multiple Wishlist, send automated emails, send in-stock notification, "
+"create API routing, and other features with Wishlist Pro Plugin."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:140
+msgid "Exclusive Support"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-overview.php:144
+msgid ""
+"Receive dedicated 24*7 Phone, Email & Skype support. Our Support is ready to "
+"assist you regarding any query, issue, or feature request and if that "
+"doesn't work, our Technical team will connect with you personally and have "
+"your query resolved."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:26
+msgid "Id"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:27
+msgid "Title"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:28
+msgid "Products"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:29
+msgid "Create Date"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:30
+msgid "Last Modified"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:31
+msgid "Owner"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:32
+msgid "Status"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:33
+msgid "Collaborators"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:34
+msgid "Properties"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:63
+msgid "- "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:69
+msgid "- Wishlist is Empty "
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:101
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:103
+msgid "Is Default"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:113
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:547
+msgid "Comment"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:114
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:555
+msgid "Priority"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-performance-analytics.php:125
+msgid "No Wishlists Found."
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-system-status.php:30
+msgid "WP Variables"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-system-status.php:31
+msgid "WP Values"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-system-status.php:56
+msgid "System Variables"
+msgstr ""
+
+#: admin/partials/ultimate-wishlist-for-woocommerce-system-status.php:57
+msgid "System Values"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:103
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:128
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:266
+msgid "Invalid Request"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:315
+msgid "Comment added successfully."
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:320
+msgid "There's some problem adding comment, try again."
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:344
+msgid "Email field cannot be empty."
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:374
+msgid "At the moment, you are not allowed to send this mail"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:395
+msgid "Invite sent successfully"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:400
+msgid "Invitation failed"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:425
+msgid "No data found"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:450
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:456
+msgid "No comments found for this product. "
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:462
+msgid "No comments found."
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:468
+msgid "No properties found."
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:496
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:560
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:603
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:646
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:668
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:698
+msgid "Something went wrong, try again"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:533
+msgid "Product does not exists"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:577
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:622
+msgid "Something went wrong"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:617
+msgid "Product deleted successfully"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:662
+msgid "Wishlist deleted successfully"
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:673
+msgid "Technical error, try reloading the page."
+msgstr ""
+
+#: common/class-ultimate-wishlist-for-woocommerce-common.php:709
+msgid "Already the default list"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-activator.php:127
+msgid "Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-activator.php:129
+msgid "[mwb_wfw_wishlist]"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:90
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:145
+msgid "Invalid Arguments"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:180
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:217
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:255
+msgid "Invalid ID"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:321
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:373
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:425
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:478
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:537
+msgid "Id Not Found"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:335
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:387
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:439
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:490
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:550
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:662
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:724
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:763
+msgid "Row Not Found"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:38
+msgid "Settings Not Found. Please Save settings once again."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:60
+msgid "New Item Added in Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:61
+msgid "View Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:62
+msgid "Processing"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:63
+msgid "Buy Now"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:64
+msgid "Please Login to your account first."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:65
+#: includes/class-ultimate-wishlist-for-woocommerce-renderer.php:155
+msgid "Add to Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:66
+#: includes/class-ultimate-wishlist-for-woocommerce-renderer.php:156
+msgid "Remove from Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:301
+msgid "What is your monthly revenue?"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:320
+msgid "What industry defines your business?"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:326
+msgid "Industry Type"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:357
+msgid "What is the best email address to contact you?"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:361
+msgid "Email"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:368
+msgid "What is your contact number?"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:373
+msgid "Contact Number"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:446
+msgid "Let us know why you are deactivating "
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:448
+msgid "Let us know why you are deactivating so we can improve the plugin"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:491
+msgid "Reason"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-onboarding-steps.php:733
+msgid "Unexpected Error Occured"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:350
+msgid "Overview"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:355
+msgid "General Setting"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:360
+msgid "Social Sharing"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:365
+msgid "Advanced Features"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:370
+msgid "Performance Analytics"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:378
+msgid "System Status"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:403
+#, php-format
+msgid ""
+"Unable to locate file at location \"%s\". Some features may not work "
+"properly in this plugin. Please contact us!"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:461
+msgid "N/A (phpversion function does not exist)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:470
+msgid "N/A (make sure exec function is enabled)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:473
+msgid "N/A (ABSPATH constant not defined)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:476
+msgid "N/A (php_uname function does not exist)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:479
+msgid "N/A (get_bloginfo function does not exist)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:482
+msgid "N/A (get_option function does not exist)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:485
+#: includes/class-ultimate-wishlist-for-woocommerce.php:488
+#: includes/class-ultimate-wishlist-for-woocommerce.php:491
+msgid "Yes"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:485
+#: includes/class-ultimate-wishlist-for-woocommerce.php:488
+#: includes/class-ultimate-wishlist-for-woocommerce.php:491
+msgid "No"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:494
+msgid "N/A (count_users function does not exist)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:497
+msgid "0"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:500
+#: includes/class-ultimate-wishlist-for-woocommerce.php:506
+#: includes/class-ultimate-wishlist-for-woocommerce.php:509
+#: includes/class-ultimate-wishlist-for-woocommerce.php:537
+#: includes/class-ultimate-wishlist-for-woocommerce.php:540
+msgid "N/A (ini_get function does not exist)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:503
+msgid "N/A"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:521
+msgid "N/A (gethostname function does not exist)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:524
+#: includes/class-ultimate-wishlist-for-woocommerce.php:533
+msgid "N/A (make sure exec is enabled)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:547
+msgid "N/A (File data not set.)"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:869
+msgid "max="
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce.php:916
+msgid "PRO"
+msgstr ""
+
+#: includes/index.php:12 index.php:14 public/index.php:12
+msgid "oops looks like nothing is here"
+msgstr ""
+
+#: onboarding/templates/ultimate-wishlist-for-woocommerce-deactivation-template.php:40
+msgid "May we have a little info about why you are deactivating?"
+msgstr ""
+
+#: onboarding/templates/ultimate-wishlist-for-woocommerce-deactivation-template.php:53
+msgid "Skip and Deactivate Now"
+msgstr ""
+
+#: onboarding/templates/ultimate-wishlist-for-woocommerce-onboarding-template.php:30
+msgid "Welcome to MakeWebBetter"
+msgstr ""
+
+#: onboarding/templates/ultimate-wishlist-for-woocommerce-onboarding-template.php:31
+msgid ""
+"We love making new friends! Subscribe below and we promise to keep you up-to-"
+"date with our latest new plugins, updates, awesome deals and a few special "
+"offers."
+msgstr ""
+
+#: onboarding/templates/ultimate-wishlist-for-woocommerce-onboarding-template.php:43
+msgid "Skip For Now"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:257
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:263
+msgid "Quick View"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:19
+msgid "edit"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:19
+msgid "Your Lists"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:23
+msgid "view"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:23
+msgid "Your Friend's Wishlist"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:57
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:87
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:116
+msgid "Default list"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:143
+msgid "Oops! That wishlist can&rsquo;t be found."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:145
+msgid ""
+"Nothing was found at this location or you might not have access to this "
+"content."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:204
+msgid "Invite Collaborator"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:206
+msgid "Invite"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:210
+msgid "Enter your friends email here!"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:214
+msgid "Send"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:277
+msgid "More"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:279
+msgid "Delete List"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:409
+msgid "Membership Product"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:409
+msgid "Read More..."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:424
+msgid "The product in your wishlist is Out Of Stock."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:440
+msgid "External product"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:493
+msgid "Comments"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:498
+msgid "..."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:508
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:511
+msgid "Add to cart"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:516
+msgid "Delete"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:519
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:541
+msgid "Add comment & priority"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:533
+msgid "No Products Added"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:560
+msgid "High"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:561
+msgid "Low"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:569
+msgid "Cancel"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:570
+msgid "Save"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:200
+msgid "Settings"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:214
+msgid "Demo"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:261
+msgid "WooCommerce"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:261
+msgid " is not activated, Please activate WooCommerce first to activate "
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:261
+msgid "."
+msgstr ""

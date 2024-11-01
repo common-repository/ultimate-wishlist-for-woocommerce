@@ -1,0 +1,959 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wishlist for WooCommerce\n"
+"POT-Creation-Date: 2021-04-03 18:49+0530\n"
+"PO-Revision-Date: 2021-03-22 19:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: MakeWebBetter\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__;esc_attr_e;esc_url_raw;"
+"esc_url;esc_attr;esc_html;ec_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:115
+msgid "Settings Panel Not Found."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:116
+msgid "Internal Server Error."
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:181
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:182
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:33
+#: ultimate-wishlist-for-woocommerce.php:221
+msgid "Ultimate Wishlist for WooCommerce"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:193
+msgid "Configuration & Settings"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:198
+msgid "Performance Analytics"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:203
+msgid "Overview"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:275
+msgid "Undefined Portal Encountered"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:467
+msgid "Write permission needed!"
+msgstr ""
+
+#: admin/class-ultimate-wishlist-for-woocommerce-admin.php:472
+msgid "File moved successfully"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:18
+msgid "admin/images/bannerwish.jpg"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:46
+msgid "admin/icons/Icons_Buyers.jpg"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:55
+msgid "admin/icons/Icons_Shareable.jpg"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:64
+msgid "admin/icons/Icons_Set.jpg"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:75
+msgid "admin/icons/Icons_Customize.jpg"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:83
+msgid "admin/icons/Icons_Purchase.jpg"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:99
+msgid "admin/icons/phone-call.png"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-overview.php:100
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:121
+msgid "admin/icons/mail.png"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-product-base.php:68
+msgid "Product Id"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-product-base.php:69
+msgid "Product Title"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-product-base.php:70
+msgid "Product Thumbnail"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-product-base.php:71
+msgid "Wishlists Count"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-product-base.php:72
+msgid "Wishlists"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-product-base.php:88
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:99
+msgid "No Wishlists Found."
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:21
+msgid "Id"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:22
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:512
+msgid "Title"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:23
+msgid "Products"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:24
+msgid "Create Date"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:25
+msgid "Last Modified"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:26
+msgid "Owner"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:27
+msgid "Status"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:28
+msgid "Collaborators"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:29
+msgid "Properties"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:76
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:78
+msgid "Is Default"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:88
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:266
+msgid "Comment"
+msgstr ""
+
+#: admin/partials/templates/ultimate-wishlist-for-woocommerce-wishlist-base.php:89
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:274
+msgid "Priority"
+msgstr ""
+
+#: extra-templates/makewebbetter-deactivation-template-display.php:34
+msgid "May we have a little info about why you are deactivating?"
+msgstr ""
+
+#: extra-templates/makewebbetter-deactivation-template-display.php:44
+msgid "Skip and Deactivate Now"
+msgstr ""
+
+#: extra-templates/makewebbetter-onboarding-template-display.php:44
+msgid "Skip For Now"
+msgstr ""
+
+#: includes/class-makewebbetter-onboarding-helper.php:307
+msgid "What is your monthly revenue?"
+msgstr ""
+
+#: includes/class-makewebbetter-onboarding-helper.php:324
+msgid "What industry defines your business?"
+msgstr ""
+
+#: includes/class-makewebbetter-onboarding-helper.php:359
+msgid "What is the best email address to contact you?"
+msgstr ""
+
+#: includes/class-makewebbetter-onboarding-helper.php:369
+msgid "What is your contact number?"
+msgstr ""
+
+#: includes/class-makewebbetter-onboarding-helper.php:612
+msgid "Select Any One Option..."
+msgstr ""
+
+#: includes/class-makewebbetter-onboarding-helper.php:870
+msgid "Unexpected Error Occured"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-activator.php:102
+msgid "Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-activator.php:104
+msgid "[mwb_wfw_wishlist]"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:108
+msgid "Invalid Arguments"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:147
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:187
+msgid "Invalid ID"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:267
+msgid "Id Not Found"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-crud-manager.php:281
+msgid "Row Not Found"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:45
+msgid "Settings Not Found. Please Save settings once again."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:67
+msgid "New Item Added in Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:68
+msgid "View Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:69
+msgid "Processing"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:70
+msgid "Buy Now"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:71
+msgid "Please Login to your account first."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:72
+#: includes/class-ultimate-wishlist-for-woocommerce-renderer.php:150
+msgid "Add to Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-helper.php:73
+#: includes/class-ultimate-wishlist-for-woocommerce-renderer.php:151
+msgid "Remove from Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-renderer.php:189
+msgid "public/icons/processing.gif"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-renderer.php:235
+msgid "public/icons/"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:91
+msgid "admin/images/preloader.gif"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:92
+msgid "Loading settings please wait..."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:111
+msgid "admin/images/customer-service-icon.jpg"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:115
+msgid "go pro"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:116
+msgid "see docs"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:117
+msgid "see demo"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:120
+msgid "connect with us in one click"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:138
+msgid "SAVE"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:139
+msgid "CANCEL"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:140
+msgid "You have saved your data!"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:159
+msgid "General"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:160
+msgid "Social Sharing"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:161
+msgid "Push Notification"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:162
+msgid "Advance Features"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:163
+msgid "CRM Configuration"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:169
+msgid "All Wishlists"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:170
+msgid "Product Based Reporting"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:194
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:200
+msgid "Enable /Disable Plugin"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:206
+msgid "Enable/Disable the complete plugin functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:211
+msgid "Enable Wishlist Popup"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:217
+msgid "Show Item added in wishlist as popup after adding in list."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:223
+msgid "Wishlist Position And Preview"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:228
+msgid "Wishlist View Type"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:230
+msgid "Select how you want to show the wishlist for customers."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:232
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:249
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:272
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:291
+msgid "No options Selected"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:233
+msgid "Icon over Product Image"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:234
+msgid "Add to Wishlist button"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:245
+msgid "Wishlist Interface Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:247
+msgid "Select which icon you want for the wishlist interface."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:250
+msgid "Heart Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:251
+msgid "Shopping Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:252
+msgid "Cart Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:253
+msgid "Star Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:254
+msgid "Tag Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:255
+msgid "Like Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:256
+msgid "Bell Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:257
+msgid "Eye Icon"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:268
+msgid "Wishlist on Loops"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:270
+msgid ""
+"Select where wishlist button should be shown on woocommerce loops or shops."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:273
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:294
+msgid "Before Product Title"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:274
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:295
+msgid "After Product Title"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:275
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:292
+msgid "Before Add To Cart Button"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:276
+msgid "Before Product Section"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:287
+msgid "Wishlist on Product Page"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:289
+msgid ""
+"Select where wishlist button should be shown on woocommerce products page."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:293
+msgid "After Add To Cart Button"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:296
+msgid "After Product Price"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:308
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:325
+msgid "Wishlist Page"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:327
+msgid ""
+"Select the page where view wishlist button should redirect. Wishlist page "
+"requires shortcode as [mwb_wfw_wishlist]"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:353
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:477
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:483
+msgid "Push Notifications"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:359
+msgid "Icon size"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:363
+msgid "Small"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:364
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:278
+msgid "Medium"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:365
+msgid "Large"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:370
+msgid "Input Pinterest icon size."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:375
+msgid "Facebook share"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:381
+msgid "Enable/Disable the Facebook share functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:386
+msgid "Facebook Icon color"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:392
+msgid "Input Facebook icon color."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:397
+msgid "WhatsApp share"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:403
+msgid "Enable/Disable the WhatsApp share functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:408
+msgid "WhatsApp Icon color"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:414
+msgid "Input WhatsApp icon color."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:419
+msgid "Twitter share"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:425
+msgid "Enable/Disable the Twitter share functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:430
+msgid "Twitter Icon color"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:436
+msgid "Input Twitter icon color."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:441
+msgid "Pinterest share"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:447
+msgid "Enable/Disable the Pinterest share functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:452
+msgid "Pinterest Icon color"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:458
+msgid "Input Pinterest icon color."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:489
+msgid "Enable/Disable the push notifications functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:495
+msgid "Secret Key"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:501
+msgid ""
+"Note: A file \"service-worker.js\" needs to be stored on the root folder, "
+"else push notifications will not work. "
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:507
+msgid "Send Custom notifications."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:518
+msgid "Enter custom notification title. "
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:523
+msgid "URL"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:529
+msgid "Enter custom notification URL. "
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:534
+msgid "Message"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:540
+msgid "Enter custom notification message. "
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:545
+msgid "Image"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:551
+msgid "Enter custom notification image. "
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:573
+msgid "Advance Notifications"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:579
+msgid "Multiple Wishlist"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:585
+msgid "Enable/Disable the multiple wishlist functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:590
+msgid "Create API routing"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:596
+msgid "Enable/Disable the API routing functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:601
+msgid "Automated Emails"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:607
+msgid "Send automated emails to wishlist owners."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:612
+msgid "In-stock Notification"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:618
+msgid "Enable/Disable in-stock notifications functionality."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:623
+msgid "Delete Data/Wishlist at uninstall"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:629
+msgid ""
+"On uninstalling the plugin all the settings and users wishlist will be "
+"deleted."
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:650
+msgid "Supported CRM Tools - Premium Feature"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:653
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:666
+msgid "https://wordpress.org/plugins/enhanced-woocommerce-mautic-integration/"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:654
+msgid "admin/images/mautic-logo.svg"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:656
+msgid "Mautic for WooCommerce"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:658
+msgid "Track and nurture your WooCommerce contacts"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:660
+msgid "Create over 20 predefined custom fields to segregate your contacts"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:661
+msgid "Sync your contacts data in real-time"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:662
+msgid "Assign custom tags to your contacts using Mautic"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:663
+msgid "Create high-converting marketing campaigns"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:664
+msgid "Segment your contacts on their Recency, Frequency, and Monetary ratings"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:666
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:681
+msgid "View Plugin Site"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:669
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:680
+msgid "https://wordpress.org/plugins/makewebbetter-hubspot-for-woocommerce/"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:670
+msgid "admin/images/hubspot-logo.svg"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:672
+msgid "HubSpot for WooCommerce"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:674
+msgid "Sync your WooCommerce store data to HubSpot"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:675
+msgid "Manage your customers and their orders in an easy-to-use CRM"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:676
+msgid "Track and recover customers’ abandoned carts"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:677
+msgid ""
+"Create and send beautiful, responsive emails to your leads and customers"
+msgstr ""
+
+#: includes/class-ultimate-wishlist-for-woocommerce-template-manager.php:678
+msgid ""
+"Build advertising campaigns on Facebook, Instagram, LinkedIn, and Google"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:304
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:321
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:365
+msgid "Invalid Request"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:390
+msgid "Unable to access data."
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:436
+msgid "Comment added successfully"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:441
+msgid "There's some problem adding comment, try again"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:465
+msgid "Email field cannot be empty"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:496
+msgid "At the moment, you are not allowed to send this mail"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:519
+msgid "Invite sent successfully"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:524
+msgid "Invitation failed"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:549
+msgid "No data found"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:574
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:580
+msgid "No comments found for this product. "
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:586
+msgid "No comments found."
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:592
+msgid "No properties found."
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:618
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:694
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:756
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:816
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:838
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:867
+msgid "Something went wrong, try again"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:665
+msgid "Product does not exists"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:727
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:789
+msgid "Something went wrong"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:784
+msgid "Product deleted successfully"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:832
+msgid "Wishlist deleted successfully"
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:843
+msgid "Technical error, try reloading the page."
+msgstr ""
+
+#: public/class-ultimate-wishlist-for-woocommerce-public.php:878
+msgid "Already the default list"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:20
+msgid "edit"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:20
+msgid "Your Lists"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:21
+msgid "view"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:21
+msgid "Your Friends"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:47
+msgid "Default list"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:72
+msgid "Oops! That wishlist can&rsquo;t be found."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:75
+msgid ""
+"Nothing was found at this location or you might not have access to this "
+"content."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:88
+msgid "Shared"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:104
+msgid "Invite Collaborator"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:104
+msgid "Invite"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:112
+msgid "Send"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:176
+msgid "More"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:178
+msgid "Set as Default."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:179
+msgid "Delete List"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:226
+msgid "Comments"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:230
+msgid "..."
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:235
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:238
+msgid "Add to cart"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:244
+msgid "Delete"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:246
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:260
+msgid "Add comment & priority"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:252
+msgid "No Products Added"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:279
+msgid "High"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:280
+msgid "Low"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:288
+msgid "Cancel"
+msgstr ""
+
+#: public/partials/ultimate-wishlist-for-woocommerce-shortcode-view.php:289
+msgid "Save"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:109
+msgid "Settings"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:129
+msgid "Demo"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:130
+msgid "Documentation"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:131
+msgid "Support"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:221
+msgid "WooCommerce"
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:221
+msgid " is not activated, Please activate WooCommerce first to activate "
+msgstr ""
+
+#: ultimate-wishlist-for-woocommerce.php:221
+msgid "."
+msgstr ""
